@@ -1,7 +1,7 @@
 # 👷‍♂️YOLO 기반 안전장비 탐지 모델 개발
 
 ## 1. 프로젝트 개요
-
+기간: 2025.08.04 ~ 2025.08.08
 이 프로젝트는 YOLO11 모델로 공사현장에서 사용하는 안전장비 객체를 실시간으로 감지하는 모델을 개발하는 것을 목표로 합니다. 탐지 대상은 `사람(person)`, `안전모(helmet)`, `안전대(belt)`, `안전조끼(vest)` 총 4개의 클래스입니다.
 
 ---
@@ -99,7 +99,7 @@
 </tr>
 <tr>
 <td><img src="https://github.com/user-attachments/assets/bbc96661-851f-4ac5-9744-39b3f2c29e41" width="500"></td>
-<td><img src="https://github.com/Yoo-SH-Alice/PPE_detection_YOLO/blob/main/ppe_detect_test.gif" width="500"></td>
+<td><img src="https://github.com/Ryu-SH-Alice/PPE_detection_YOLO/blob/main/ppe_detect_test.gif?raw=true" width="500"></td>
 </tr>
 </table>
 
